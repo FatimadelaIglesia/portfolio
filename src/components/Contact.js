@@ -21,7 +21,7 @@ function Contact() {
             type="email"
             name="email"
             className="form-control"
-            placeholder="Your e-mail"
+            placeholder="Your email"
             required
           />
         </div>
