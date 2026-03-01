@@ -1,4 +1,4 @@
-function Contact() {
+function Contacts() {
   return (
     <section id="contact" className="mb-5">
       <h3>Contact</h3>
@@ -44,5 +44,5 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Contacts;
 
