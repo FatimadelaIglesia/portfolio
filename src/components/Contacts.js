@@ -1,4 +1,4 @@
-function Contact() {
+function Contacts() {
   return (
     <section id="contact" className="mb-5">
       <h3>Contact</h3>
@@ -21,7 +21,7 @@ function Contact() {
             type="email"
             name="email"
             className="form-control"
-            placeholder="Your e-mail"
+            placeholder="Your email"
             required
           />
         </div>
@@ -44,4 +44,5 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Contacts;
+
